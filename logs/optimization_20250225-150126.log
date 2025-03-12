@@ -1,0 +1,24 @@
+2025-02-25 15:01:26,542 - INFO - Starting Fuel and Cargo Optimization
+2025-02-25 15:01:26,542 - INFO - Starting optimization for MLE-PEK with A330-203
+2025-02-25 15:01:26,542 - INFO - Passengers: 200
+2025-02-25 15:01:26,542 - INFO - Fuel price at origin: $0.9974/liter
+2025-02-25 15:01:26,542 - INFO - Fuel price at destination: $0.6853/liter
+2025-02-25 15:01:26,542 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:01:26,542 - INFO - User overrides:
+2025-02-25 15:01:26,542 - INFO -   regulated_mtow: 230000.0
+2025-02-25 15:01:26,543 - INFO - Optimization results:
+2025-02-25 15:01:26,543 - INFO - Optimal cargo: 27748.42 kg
+2025-02-25 15:01:26,543 - INFO - Optimal tankering: 0.00 kg
+2025-02-25 15:01:26,543 - INFO - Total profit: $49543.27
+2025-02-25 15:01:26,543 - INFO -   - Cargo revenue: $72145.89
+2025-02-25 15:01:26,543 - INFO -   - Fuel savings: $-9205.19
+2025-02-25 15:01:26,543 - INFO - Additional burn: 10544.40 kg
+2025-02-25 15:01:26,543 - INFO - Take-off mass: 229280.04 kg
+2025-02-25 15:01:26,543 - INFO - Zero fuel mass: 168458.42 kg
+2025-02-25 15:01:26,543 - INFO - Landing mass: 173735.64 kg
+2025-02-25 15:01:26,543 - INFO - Limiting factor: MZFW+Fuel
+2025-02-25 15:01:26,543 - INFO - No constraint violations
+2025-02-25 15:01:26,543 - INFO - Analyzing cargo-fuel tradeoff...
+2025-02-25 15:01:26,543 - INFO - Cargo vs. Fuel Tradeoff Analysis:
+2025-02-25 15:01:26,543 - INFO - ratio          cargo          extra_fuel     total_profit   cargo_revenue  fuel_savings   additional_burnvalid          violations     
+2025-02-25 15:01:26,543 - ERROR - Optimization failed: unsupported format string passed to dict.__format__

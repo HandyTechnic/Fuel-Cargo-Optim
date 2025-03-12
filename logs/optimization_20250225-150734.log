@@ -1,0 +1,38 @@
+2025-02-25 15:09:54,380 - INFO - Starting optimization for MLE-TFU with A330-203
+2025-02-25 15:09:54,380 - INFO - Passengers: 237
+2025-02-25 15:09:54,381 - INFO - Fuel price at origin: $0.9974/liter
+2025-02-25 15:09:54,381 - INFO - Fuel price at destination: $0.6875/liter
+2025-02-25 15:09:54,381 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:09:54,381 - INFO - User overrides:
+2025-02-25 15:09:54,381 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:09:54,381 - INFO -   block_fuel: 42545.0
+2025-02-25 15:09:54,381 - INFO - Optimization results:
+2025-02-25 15:09:54,381 - INFO - Optimal cargo: 3498.00 kg
+2025-02-25 15:09:54,381 - INFO - Optimal tankering: 0.00 kg
+2025-02-25 15:09:54,381 - INFO - Total profit: $7096.17
+2025-02-25 15:09:54,381 - INFO -   - Cargo revenue: $9094.80
+2025-02-25 15:09:54,381 - INFO -   - Fuel savings: $-815.51
+2025-02-25 15:09:54,381 - INFO - Additional burn: 931.17 kg
+2025-02-25 15:09:54,381 - INFO - Take-off mass: 185942.78 kg
+2025-02-25 15:09:54,381 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:09:54,381 - INFO - Landing mass: 152170.61 kg
+2025-02-25 15:09:54,381 - INFO - Limiting factor: MZFW+Fuel
+2025-02-25 15:14:19,590 - INFO - Starting optimization for MLE-TFU with A330-203
+2025-02-25 15:14:19,592 - INFO - Passengers: 237
+2025-02-25 15:14:19,592 - INFO - Fuel price at origin: $0.9974/liter
+2025-02-25 15:14:19,592 - INFO - Fuel price at destination: $0.6875/liter
+2025-02-25 15:14:19,592 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:14:19,592 - INFO - User overrides:
+2025-02-25 15:14:19,592 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:14:19,592 - INFO -   block_fuel: 42545.0
+2025-02-25 15:14:19,592 - INFO - Optimization results:
+2025-02-25 15:14:19,592 - INFO - Optimal cargo: 3498.00 kg
+2025-02-25 15:14:19,592 - INFO - Optimal tankering: 0.00 kg
+2025-02-25 15:14:19,592 - INFO - Total profit: $7096.17
+2025-02-25 15:14:19,592 - INFO -   - Cargo revenue: $9094.80
+2025-02-25 15:14:19,592 - INFO -   - Fuel savings: $-815.51
+2025-02-25 15:14:19,592 - INFO - Additional burn: 931.17 kg
+2025-02-25 15:14:19,592 - INFO - Take-off mass: 185942.78 kg
+2025-02-25 15:14:19,592 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:14:19,592 - INFO - Landing mass: 152170.61 kg
+2025-02-25 15:14:19,592 - INFO - Limiting factor: MZFW+Fuel

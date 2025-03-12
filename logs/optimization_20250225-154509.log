@@ -1,0 +1,629 @@
+2025-02-25 15:45:17,372 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:45:17,373 - INFO - Passengers: 237
+2025-02-25 15:45:17,373 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:45:17,373 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:45:17,373 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:45:17,373 - INFO - Optimization results:
+2025-02-25 15:45:17,373 - INFO - Optimal cargo: 25516.00 kg
+2025-02-25 15:45:17,373 - INFO - Optimal tankering: 19964.99 kg
+2025-02-25 15:45:17,373 - INFO - Total profit: $48237.14
+2025-02-25 15:45:17,373 - INFO -   - Cargo revenue: $66341.60
+2025-02-25 15:45:17,373 - INFO -   - Fuel savings: $-7501.16
+2025-02-25 15:45:17,373 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:45:17,373 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:45:17,373 - INFO - Zero fuel mass: 170000.00 kg
+2025-02-25 15:45:17,373 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:45:17,373 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:46:39,517 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:46:39,518 - INFO - Passengers: 237
+2025-02-25 15:46:39,518 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:46:39,518 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:46:39,518 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:46:39,518 - INFO - User overrides:
+2025-02-25 15:46:39,518 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:46:39,518 - INFO -   block_fuel: 42545.0
+2025-02-25 15:46:39,518 - INFO -   cargo_revenue_rate: 1.4
+2025-02-25 15:46:39,518 - INFO - Optimization results:
+2025-02-25 15:46:39,518 - INFO - Optimal cargo: 3498.00 kg
+2025-02-25 15:46:39,518 - INFO - Optimal tankering: 41982.99 kg
+2025-02-25 15:46:39,518 - INFO - Total profit: $-4515.06
+2025-02-25 15:46:39,518 - INFO -   - Cargo revenue: $4897.20
+2025-02-25 15:46:39,518 - INFO -   - Fuel savings: $1191.04
+2025-02-25 15:46:39,518 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:46:39,518 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:46:39,518 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:46:39,518 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:46:39,518 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:46:56,547 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:46:56,547 - INFO - Passengers: 237
+2025-02-25 15:46:56,547 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:46:56,547 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:46:56,547 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:46:56,547 - INFO - User overrides:
+2025-02-25 15:46:56,548 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:46:56,548 - INFO -   block_fuel: 42545.0
+2025-02-25 15:46:56,548 - INFO -   cargo_revenue_rate: 1.4
+2025-02-25 15:46:56,548 - INFO - Optimization results:
+2025-02-25 15:46:56,548 - INFO - Optimal cargo: 3498.00 kg
+2025-02-25 15:46:56,548 - INFO - Optimal tankering: 0.00 kg
+2025-02-25 15:46:56,548 - INFO - Total profit: $2898.57
+2025-02-25 15:46:56,548 - INFO -   - Cargo revenue: $4897.20
+2025-02-25 15:46:56,548 - INFO -   - Fuel savings: $-1183.12
+2025-02-25 15:46:56,548 - INFO - Additional burn: 931.17 kg
+2025-02-25 15:46:56,548 - INFO - Take-off mass: 185942.78 kg
+2025-02-25 15:46:56,548 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:46:56,548 - INFO - Landing mass: 152170.61 kg
+2025-02-25 15:46:56,548 - INFO - Limiting factor: MZFW+Fuel
+2025-02-25 15:46:58,013 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:46:58,013 - INFO - Passengers: 237
+2025-02-25 15:46:58,013 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:46:58,013 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:46:58,013 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:46:58,013 - INFO - User overrides:
+2025-02-25 15:46:58,013 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:46:58,013 - INFO -   block_fuel: 42545.0
+2025-02-25 15:46:58,013 - INFO -   cargo_revenue_rate: 1.4
+2025-02-25 15:46:58,013 - INFO - Optimization results:
+2025-02-25 15:46:58,013 - INFO - Optimal cargo: 3498.00 kg
+2025-02-25 15:46:58,013 - INFO - Optimal tankering: 0.00 kg
+2025-02-25 15:46:58,013 - INFO - Total profit: $2898.57
+2025-02-25 15:46:58,013 - INFO -   - Cargo revenue: $4897.20
+2025-02-25 15:46:58,013 - INFO -   - Fuel savings: $-1183.12
+2025-02-25 15:46:58,013 - INFO - Additional burn: 931.17 kg
+2025-02-25 15:46:58,013 - INFO - Take-off mass: 185942.78 kg
+2025-02-25 15:46:58,013 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:46:58,013 - INFO - Landing mass: 152170.61 kg
+2025-02-25 15:46:58,013 - INFO - Limiting factor: MZFW+Fuel
+2025-02-25 15:47:00,690 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:47:00,690 - INFO - Passengers: 237
+2025-02-25 15:47:00,690 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:47:00,690 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:47:00,690 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:47:00,690 - INFO - User overrides:
+2025-02-25 15:47:00,690 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:47:00,691 - INFO -   block_fuel: 42545.0
+2025-02-25 15:47:00,691 - INFO -   cargo_revenue_rate: 1.4
+2025-02-25 15:47:00,691 - INFO - Optimization results:
+2025-02-25 15:47:00,691 - INFO - Optimal cargo: 3498.00 kg
+2025-02-25 15:47:00,691 - INFO - Optimal tankering: 41982.99 kg
+2025-02-25 15:47:00,691 - INFO - Total profit: $-4515.06
+2025-02-25 15:47:00,691 - INFO -   - Cargo revenue: $4897.20
+2025-02-25 15:47:00,691 - INFO -   - Fuel savings: $1191.04
+2025-02-25 15:47:00,691 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:47:00,691 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:47:00,691 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:47:00,691 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:47:00,691 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:47:03,857 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:47:03,857 - INFO - Passengers: 237
+2025-02-25 15:47:03,857 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:47:03,857 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:47:03,857 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:47:03,857 - INFO - User overrides:
+2025-02-25 15:47:03,857 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:47:03,857 - INFO -   block_fuel: 42545.0
+2025-02-25 15:47:03,857 - INFO -   cargo_revenue_rate: 1.4
+2025-02-25 15:47:03,857 - INFO - Optimization results:
+2025-02-25 15:47:03,857 - INFO - Optimal cargo: 3498.00 kg
+2025-02-25 15:47:03,857 - INFO - Optimal tankering: 0.00 kg
+2025-02-25 15:47:03,858 - INFO - Total profit: $2898.57
+2025-02-25 15:47:03,858 - INFO -   - Cargo revenue: $4897.20
+2025-02-25 15:47:03,858 - INFO -   - Fuel savings: $-1183.12
+2025-02-25 15:47:03,858 - INFO - Additional burn: 931.17 kg
+2025-02-25 15:47:03,858 - INFO - Take-off mass: 185942.78 kg
+2025-02-25 15:47:03,858 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:47:03,858 - INFO - Landing mass: 152170.61 kg
+2025-02-25 15:47:03,858 - INFO - Limiting factor: MZFW+Fuel
+2025-02-25 15:47:43,314 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:47:43,314 - INFO - Passengers: 237
+2025-02-25 15:47:43,314 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:47:43,314 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:47:43,314 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:47:43,314 - INFO - User overrides:
+2025-02-25 15:47:43,314 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:47:43,314 - INFO -   block_fuel: 42545.0
+2025-02-25 15:47:43,314 - INFO -   cargo_revenue_rate: 1.4
+2025-02-25 15:47:43,314 - INFO - Optimization results:
+2025-02-25 15:47:43,314 - INFO - Optimal cargo: 3498.00 kg
+2025-02-25 15:47:43,314 - INFO - Optimal tankering: 41982.99 kg
+2025-02-25 15:47:43,314 - INFO - Total profit: $-4515.06
+2025-02-25 15:47:43,314 - INFO -   - Cargo revenue: $4897.20
+2025-02-25 15:47:43,314 - INFO -   - Fuel savings: $1191.04
+2025-02-25 15:47:43,314 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:47:43,314 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:47:43,314 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:47:43,314 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:47:43,314 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:48:13,380 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:48:13,380 - INFO - Passengers: 237
+2025-02-25 15:48:13,380 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:48:13,380 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:48:13,380 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:48:13,380 - INFO - User overrides:
+2025-02-25 15:48:13,380 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:48:13,380 - INFO -   block_fuel: 42545.0
+2025-02-25 15:48:13,380 - INFO -   cargo_revenue_rate: 1.0
+2025-02-25 15:48:13,380 - INFO - Optimization results:
+2025-02-25 15:48:13,380 - INFO - Optimal cargo: 3498.00 kg
+2025-02-25 15:48:13,380 - INFO - Optimal tankering: 41982.99 kg
+2025-02-25 15:48:13,380 - INFO - Total profit: $-5914.26
+2025-02-25 15:48:13,380 - INFO -   - Cargo revenue: $3498.00
+2025-02-25 15:48:13,380 - INFO -   - Fuel savings: $1191.04
+2025-02-25 15:48:13,380 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:48:13,381 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:48:13,381 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:48:13,381 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:48:13,381 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:48:20,960 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:48:20,960 - INFO - Passengers: 237
+2025-02-25 15:48:20,960 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:48:20,960 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:48:20,960 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:48:20,960 - INFO - User overrides:
+2025-02-25 15:48:20,960 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:48:20,960 - INFO -   block_fuel: 42545.0
+2025-02-25 15:48:20,960 - INFO -   cargo_revenue_rate: 0.1
+2025-02-25 15:48:20,960 - INFO - Optimization results:
+2025-02-25 15:48:20,960 - INFO - Optimal cargo: 0.00 kg
+2025-02-25 15:48:20,960 - INFO - Optimal tankering: 45480.99 kg
+2025-02-25 15:48:20,960 - INFO - Total profit: $-8031.33
+2025-02-25 15:48:20,960 - INFO -   - Cargo revenue: $0.00
+2025-02-25 15:48:20,960 - INFO -   - Fuel savings: $2571.97
+2025-02-25 15:48:20,960 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:48:20,960 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:48:20,960 - INFO - Zero fuel mass: 144484.00 kg
+2025-02-25 15:48:20,961 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:48:20,961 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:48:25,082 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:48:25,082 - INFO - Passengers: 237
+2025-02-25 15:48:25,082 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:48:25,082 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:48:25,082 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:48:25,082 - INFO - User overrides:
+2025-02-25 15:48:25,082 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:48:25,082 - INFO -   block_fuel: 42545.0
+2025-02-25 15:48:25,082 - INFO -   cargo_revenue_rate: 0.5
+2025-02-25 15:48:25,082 - INFO - Optimization results:
+2025-02-25 15:48:25,082 - INFO - Optimal cargo: 3498.00 kg
+2025-02-25 15:48:25,082 - INFO - Optimal tankering: 41982.99 kg
+2025-02-25 15:48:25,082 - INFO - Total profit: $-7663.26
+2025-02-25 15:48:25,082 - INFO -   - Cargo revenue: $1749.00
+2025-02-25 15:48:25,082 - INFO -   - Fuel savings: $1191.04
+2025-02-25 15:48:25,082 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:48:25,082 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:48:25,082 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:48:25,082 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:48:25,082 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:48:31,313 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:48:31,313 - INFO - Passengers: 237
+2025-02-25 15:48:31,313 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:48:31,313 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:48:31,313 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:48:31,313 - INFO - User overrides:
+2025-02-25 15:48:31,314 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:48:31,314 - INFO -   block_fuel: 42545.0
+2025-02-25 15:48:31,314 - INFO -   cargo_revenue_rate: 0.4
+2025-02-25 15:48:31,314 - INFO - Optimization results:
+2025-02-25 15:48:31,314 - INFO - Optimal cargo: 3498.00 kg
+2025-02-25 15:48:31,314 - INFO - Optimal tankering: 41982.99 kg
+2025-02-25 15:48:31,314 - INFO - Total profit: $-8013.06
+2025-02-25 15:48:31,314 - INFO -   - Cargo revenue: $1399.20
+2025-02-25 15:48:31,314 - INFO -   - Fuel savings: $1191.04
+2025-02-25 15:48:31,314 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:48:31,314 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:48:31,314 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:48:31,314 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:48:31,314 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:48:34,571 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:48:34,571 - INFO - Passengers: 237
+2025-02-25 15:48:34,571 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:48:34,571 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:48:34,571 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:48:34,571 - INFO - User overrides:
+2025-02-25 15:48:34,571 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:48:34,571 - INFO -   block_fuel: 42545.0
+2025-02-25 15:48:34,571 - INFO -   cargo_revenue_rate: 0.3
+2025-02-25 15:48:34,571 - INFO - Optimization results:
+2025-02-25 15:48:34,571 - INFO - Optimal cargo: 0.00 kg
+2025-02-25 15:48:34,571 - INFO - Optimal tankering: 45480.99 kg
+2025-02-25 15:48:34,571 - INFO - Total profit: $-8031.33
+2025-02-25 15:48:34,571 - INFO -   - Cargo revenue: $0.00
+2025-02-25 15:48:34,571 - INFO -   - Fuel savings: $2571.97
+2025-02-25 15:48:34,571 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:48:34,571 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:48:34,571 - INFO - Zero fuel mass: 144484.00 kg
+2025-02-25 15:48:34,571 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:48:34,571 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:48:37,717 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:48:37,717 - INFO - Passengers: 237
+2025-02-25 15:48:37,717 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:48:37,717 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:48:37,717 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:48:37,717 - INFO - User overrides:
+2025-02-25 15:48:37,717 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:48:37,717 - INFO -   block_fuel: 42545.0
+2025-02-25 15:48:37,717 - INFO -   cargo_revenue_rate: 0.35
+2025-02-25 15:48:37,717 - INFO - Optimization results:
+2025-02-25 15:48:37,717 - INFO - Optimal cargo: 0.00 kg
+2025-02-25 15:48:37,717 - INFO - Optimal tankering: 45480.99 kg
+2025-02-25 15:48:37,717 - INFO - Total profit: $-8031.33
+2025-02-25 15:48:37,717 - INFO -   - Cargo revenue: $0.00
+2025-02-25 15:48:37,717 - INFO -   - Fuel savings: $2571.97
+2025-02-25 15:48:37,718 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:48:37,718 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:48:37,718 - INFO - Zero fuel mass: 144484.00 kg
+2025-02-25 15:48:37,718 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:48:37,718 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:48:45,521 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:48:45,521 - INFO - Passengers: 237
+2025-02-25 15:48:45,521 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:48:45,521 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:48:45,521 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:48:45,521 - INFO - User overrides:
+2025-02-25 15:48:45,521 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:48:45,521 - INFO -   block_fuel: 42545.0
+2025-02-25 15:48:45,522 - INFO -   cargo_revenue_rate: 0.34
+2025-02-25 15:48:45,522 - INFO - Optimization results:
+2025-02-25 15:48:45,522 - INFO - Optimal cargo: 0.00 kg
+2025-02-25 15:48:45,522 - INFO - Optimal tankering: 45480.99 kg
+2025-02-25 15:48:45,522 - INFO - Total profit: $-8031.33
+2025-02-25 15:48:45,522 - INFO -   - Cargo revenue: $0.00
+2025-02-25 15:48:45,522 - INFO -   - Fuel savings: $2571.97
+2025-02-25 15:48:45,522 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:48:45,522 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:48:45,522 - INFO - Zero fuel mass: 144484.00 kg
+2025-02-25 15:48:45,522 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:48:45,522 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:48:49,246 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:48:49,246 - INFO - Passengers: 237
+2025-02-25 15:48:49,246 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:48:49,246 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:48:49,246 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:48:49,246 - INFO - User overrides:
+2025-02-25 15:48:49,246 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:48:49,246 - INFO -   block_fuel: 42545.0
+2025-02-25 15:48:49,246 - INFO -   cargo_revenue_rate: 0.36
+2025-02-25 15:48:49,246 - INFO - Optimization results:
+2025-02-25 15:48:49,246 - INFO - Optimal cargo: 0.00 kg
+2025-02-25 15:48:49,246 - INFO - Optimal tankering: 45480.99 kg
+2025-02-25 15:48:49,246 - INFO - Total profit: $-8031.33
+2025-02-25 15:48:49,246 - INFO -   - Cargo revenue: $0.00
+2025-02-25 15:48:49,246 - INFO -   - Fuel savings: $2571.97
+2025-02-25 15:48:49,246 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:48:49,246 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:48:49,246 - INFO - Zero fuel mass: 144484.00 kg
+2025-02-25 15:48:49,246 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:48:49,246 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:48:52,520 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:48:52,520 - INFO - Passengers: 237
+2025-02-25 15:48:52,520 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:48:52,520 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:48:52,520 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:48:52,520 - INFO - User overrides:
+2025-02-25 15:48:52,520 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:48:52,520 - INFO -   block_fuel: 42545.0
+2025-02-25 15:48:52,520 - INFO -   cargo_revenue_rate: 0.37
+2025-02-25 15:48:52,520 - INFO - Optimization results:
+2025-02-25 15:48:52,520 - INFO - Optimal cargo: 0.00 kg
+2025-02-25 15:48:52,520 - INFO - Optimal tankering: 45480.99 kg
+2025-02-25 15:48:52,520 - INFO - Total profit: $-8031.33
+2025-02-25 15:48:52,520 - INFO -   - Cargo revenue: $0.00
+2025-02-25 15:48:52,520 - INFO -   - Fuel savings: $2571.97
+2025-02-25 15:48:52,520 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:48:52,520 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:48:52,520 - INFO - Zero fuel mass: 144484.00 kg
+2025-02-25 15:48:52,520 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:48:52,520 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:48:55,768 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:48:55,768 - INFO - Passengers: 237
+2025-02-25 15:48:55,768 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:48:55,768 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:48:55,768 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:48:55,768 - INFO - User overrides:
+2025-02-25 15:48:55,768 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:48:55,768 - INFO -   block_fuel: 42545.0
+2025-02-25 15:48:55,768 - INFO -   cargo_revenue_rate: 0.38
+2025-02-25 15:48:55,768 - INFO - Optimization results:
+2025-02-25 15:48:55,768 - INFO - Optimal cargo: 0.00 kg
+2025-02-25 15:48:55,768 - INFO - Optimal tankering: 45480.99 kg
+2025-02-25 15:48:55,768 - INFO - Total profit: $-8031.33
+2025-02-25 15:48:55,768 - INFO -   - Cargo revenue: $0.00
+2025-02-25 15:48:55,768 - INFO -   - Fuel savings: $2571.97
+2025-02-25 15:48:55,768 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:48:55,768 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:48:55,768 - INFO - Zero fuel mass: 144484.00 kg
+2025-02-25 15:48:55,768 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:48:55,768 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:48:58,990 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:48:58,990 - INFO - Passengers: 237
+2025-02-25 15:48:58,990 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:48:58,990 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:48:58,990 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:48:58,991 - INFO - User overrides:
+2025-02-25 15:48:58,991 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:48:58,991 - INFO -   block_fuel: 42545.0
+2025-02-25 15:48:58,991 - INFO -   cargo_revenue_rate: 0.39
+2025-02-25 15:48:58,991 - INFO - Optimization results:
+2025-02-25 15:48:58,991 - INFO - Optimal cargo: 0.00 kg
+2025-02-25 15:48:58,991 - INFO - Optimal tankering: 45480.99 kg
+2025-02-25 15:48:58,991 - INFO - Total profit: $-8031.33
+2025-02-25 15:48:58,991 - INFO -   - Cargo revenue: $0.00
+2025-02-25 15:48:58,991 - INFO -   - Fuel savings: $2571.97
+2025-02-25 15:48:58,991 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:48:58,991 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:48:58,991 - INFO - Zero fuel mass: 144484.00 kg
+2025-02-25 15:48:58,991 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:48:58,991 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:49:03,770 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:49:03,770 - INFO - Passengers: 237
+2025-02-25 15:49:03,770 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:49:03,770 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:49:03,770 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:49:03,770 - INFO - User overrides:
+2025-02-25 15:49:03,770 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:49:03,770 - INFO -   block_fuel: 42545.0
+2025-02-25 15:49:03,770 - INFO -   cargo_revenue_rate: 0.4
+2025-02-25 15:49:03,770 - INFO - Optimization results:
+2025-02-25 15:49:03,770 - INFO - Optimal cargo: 3498.00 kg
+2025-02-25 15:49:03,770 - INFO - Optimal tankering: 41982.99 kg
+2025-02-25 15:49:03,770 - INFO - Total profit: $-8013.06
+2025-02-25 15:49:03,770 - INFO -   - Cargo revenue: $1399.20
+2025-02-25 15:49:03,770 - INFO -   - Fuel savings: $1191.04
+2025-02-25 15:49:03,770 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:49:03,770 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:49:03,770 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:49:03,770 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:49:03,770 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:49:11,093 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:49:11,093 - INFO - Passengers: 237
+2025-02-25 15:49:11,093 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:49:11,093 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:49:11,093 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:49:11,093 - INFO - User overrides:
+2025-02-25 15:49:11,093 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:49:11,093 - INFO -   block_fuel: 42545.0
+2025-02-25 15:49:11,093 - INFO -   cargo_revenue_rate: 0.399
+2025-02-25 15:49:11,093 - INFO - Optimization results:
+2025-02-25 15:49:11,093 - INFO - Optimal cargo: 3498.00 kg
+2025-02-25 15:49:11,093 - INFO - Optimal tankering: 41982.99 kg
+2025-02-25 15:49:11,093 - INFO - Total profit: $-8016.56
+2025-02-25 15:49:11,093 - INFO -   - Cargo revenue: $1395.70
+2025-02-25 15:49:11,093 - INFO -   - Fuel savings: $1191.04
+2025-02-25 15:49:11,093 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:49:11,093 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:49:11,093 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:49:11,093 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:49:11,093 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:49:14,756 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:49:14,756 - INFO - Passengers: 237
+2025-02-25 15:49:14,756 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:49:14,756 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:49:14,756 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:49:14,756 - INFO - User overrides:
+2025-02-25 15:49:14,756 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:49:14,756 - INFO -   block_fuel: 42545.0
+2025-02-25 15:49:14,756 - INFO -   cargo_revenue_rate: 0.395
+2025-02-25 15:49:14,756 - INFO - Optimization results:
+2025-02-25 15:49:14,756 - INFO - Optimal cargo: 3498.00 kg
+2025-02-25 15:49:14,756 - INFO - Optimal tankering: 41982.99 kg
+2025-02-25 15:49:14,756 - INFO - Total profit: $-8030.55
+2025-02-25 15:49:14,756 - INFO -   - Cargo revenue: $1381.71
+2025-02-25 15:49:14,756 - INFO -   - Fuel savings: $1191.04
+2025-02-25 15:49:14,756 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:49:14,756 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:49:14,756 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:49:14,756 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:49:14,756 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:49:19,183 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:49:19,184 - INFO - Passengers: 237
+2025-02-25 15:49:19,184 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:49:19,184 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:49:19,184 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:49:19,184 - INFO - User overrides:
+2025-02-25 15:49:19,184 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:49:19,184 - INFO -   block_fuel: 42545.0
+2025-02-25 15:49:19,184 - INFO -   cargo_revenue_rate: 0.39
+2025-02-25 15:49:19,184 - INFO - Optimization results:
+2025-02-25 15:49:19,184 - INFO - Optimal cargo: 0.00 kg
+2025-02-25 15:49:19,184 - INFO - Optimal tankering: 45480.99 kg
+2025-02-25 15:49:19,184 - INFO - Total profit: $-8031.33
+2025-02-25 15:49:19,184 - INFO -   - Cargo revenue: $0.00
+2025-02-25 15:49:19,184 - INFO -   - Fuel savings: $2571.97
+2025-02-25 15:49:19,184 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:49:19,184 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:49:19,184 - INFO - Zero fuel mass: 144484.00 kg
+2025-02-25 15:49:19,184 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:49:19,184 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:49:23,637 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:49:23,637 - INFO - Passengers: 237
+2025-02-25 15:49:23,637 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:49:23,637 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:49:23,637 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:49:23,637 - INFO - User overrides:
+2025-02-25 15:49:23,637 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:49:23,637 - INFO -   block_fuel: 42545.0
+2025-02-25 15:49:23,637 - INFO -   cargo_revenue_rate: 0.393
+2025-02-25 15:49:23,637 - INFO - Optimization results:
+2025-02-25 15:49:23,637 - INFO - Optimal cargo: 0.00 kg
+2025-02-25 15:49:23,637 - INFO - Optimal tankering: 45480.99 kg
+2025-02-25 15:49:23,638 - INFO - Total profit: $-8031.33
+2025-02-25 15:49:23,638 - INFO -   - Cargo revenue: $0.00
+2025-02-25 15:49:23,638 - INFO -   - Fuel savings: $2571.97
+2025-02-25 15:49:23,638 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:49:23,638 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:49:23,638 - INFO - Zero fuel mass: 144484.00 kg
+2025-02-25 15:49:23,638 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:49:23,638 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:49:28,909 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:49:28,909 - INFO - Passengers: 237
+2025-02-25 15:49:28,909 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:49:28,909 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:49:28,909 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:49:28,909 - INFO - User overrides:
+2025-02-25 15:49:28,909 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:49:28,910 - INFO -   block_fuel: 42545.0
+2025-02-25 15:49:28,910 - INFO -   cargo_revenue_rate: 0.394
+2025-02-25 15:49:28,910 - INFO - Optimization results:
+2025-02-25 15:49:28,910 - INFO - Optimal cargo: 0.00 kg
+2025-02-25 15:49:28,910 - INFO - Optimal tankering: 45480.99 kg
+2025-02-25 15:49:28,910 - INFO - Total profit: $-8031.33
+2025-02-25 15:49:28,910 - INFO -   - Cargo revenue: $0.00
+2025-02-25 15:49:28,910 - INFO -   - Fuel savings: $2571.97
+2025-02-25 15:49:28,910 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:49:28,910 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:49:28,910 - INFO - Zero fuel mass: 144484.00 kg
+2025-02-25 15:49:28,910 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:49:28,910 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:49:32,407 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:49:32,407 - INFO - Passengers: 237
+2025-02-25 15:49:32,407 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:49:32,407 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:49:32,407 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:49:32,407 - INFO - User overrides:
+2025-02-25 15:49:32,407 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:49:32,407 - INFO -   block_fuel: 42545.0
+2025-02-25 15:49:32,407 - INFO -   cargo_revenue_rate: 0.395
+2025-02-25 15:49:32,407 - INFO - Optimization results:
+2025-02-25 15:49:32,407 - INFO - Optimal cargo: 3498.00 kg
+2025-02-25 15:49:32,407 - INFO - Optimal tankering: 41982.99 kg
+2025-02-25 15:49:32,407 - INFO - Total profit: $-8030.55
+2025-02-25 15:49:32,407 - INFO -   - Cargo revenue: $1381.71
+2025-02-25 15:49:32,407 - INFO -   - Fuel savings: $1191.04
+2025-02-25 15:49:32,407 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:49:32,407 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:49:32,407 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:49:32,407 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:49:32,407 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:51:06,683 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:51:06,683 - INFO - Passengers: 237
+2025-02-25 15:51:06,683 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:51:06,683 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:51:06,683 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:51:06,683 - INFO - User overrides:
+2025-02-25 15:51:06,683 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:51:06,683 - INFO -   block_fuel: 42545.0
+2025-02-25 15:51:06,683 - INFO - Optimization results:
+2025-02-25 15:51:06,683 - INFO - Optimal cargo: 3498.00 kg
+2025-02-25 15:51:06,683 - INFO - Optimal tankering: 41982.99 kg
+2025-02-25 15:51:06,683 - INFO - Total profit: $-317.46
+2025-02-25 15:51:06,683 - INFO -   - Cargo revenue: $9094.80
+2025-02-25 15:51:06,683 - INFO -   - Fuel savings: $1191.04
+2025-02-25 15:51:06,683 - INFO - Additional burn: 12107.04 kg
+2025-02-25 15:51:06,683 - INFO - Take-off mass: 239660.43 kg
+2025-02-25 15:51:06,683 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:51:06,683 - INFO - Landing mass: 194712.39 kg
+2025-02-25 15:51:06,683 - INFO - Limiting factor: MLW+TripFuel
+2025-02-25 15:51:16,801 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:51:16,801 - INFO - Passengers: 237
+2025-02-25 15:51:16,801 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:51:16,801 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:51:16,801 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:51:16,801 - INFO - User overrides:
+2025-02-25 15:51:16,801 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:51:16,801 - INFO -   block_fuel: 42545.0
+2025-02-25 15:51:16,801 - INFO - Optimization results:
+2025-02-25 15:51:16,801 - INFO - Optimal cargo: 3498.00 kg
+2025-02-25 15:51:16,801 - INFO - Optimal tankering: 0.00 kg
+2025-02-25 15:51:16,801 - INFO - Total profit: $7096.17
+2025-02-25 15:51:16,801 - INFO -   - Cargo revenue: $9094.80
+2025-02-25 15:51:16,802 - INFO -   - Fuel savings: $-1183.12
+2025-02-25 15:51:16,802 - INFO - Additional burn: 931.17 kg
+2025-02-25 15:51:16,802 - INFO - Take-off mass: 185942.78 kg
+2025-02-25 15:51:16,802 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:51:16,802 - INFO - Landing mass: 152170.61 kg
+2025-02-25 15:51:16,802 - INFO - Limiting factor: MZFW+Fuel
+2025-02-25 15:53:06,348 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:53:06,348 - INFO - Passengers: 2
+2025-02-25 15:53:06,348 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:53:06,348 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:53:06,348 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:53:06,348 - INFO - User overrides:
+2025-02-25 15:53:06,349 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:53:06,349 - INFO -   block_fuel: 42545.0
+2025-02-25 15:53:06,349 - INFO - Optimization results:
+2025-02-25 15:53:06,349 - INFO - Optimal cargo: 18793.89 kg
+2025-02-25 15:53:06,349 - INFO - Optimal tankering: 0.00 kg
+2025-02-25 15:53:06,349 - INFO - Total profit: $38125.98
+2025-02-25 15:53:06,349 - INFO -   - Cargo revenue: $48864.13
+2025-02-25 15:53:06,349 - INFO -   - Fuel savings: $-6356.60
+2025-02-25 15:53:06,349 - INFO - Additional burn: 5002.93 kg
+2025-02-25 15:53:06,349 - INFO - Take-off mass: 181544.03 kg
+2025-02-25 15:53:06,349 - INFO - Zero fuel mass: 139307.89 kg
+2025-02-25 15:53:06,349 - INFO - Landing mass: 143700.09 kg
+2025-02-25 15:53:06,349 - INFO - Limiting factor: MZFW+Fuel
+2025-02-25 15:53:23,681 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:53:23,682 - INFO - Passengers: 130
+2025-02-25 15:53:23,682 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:53:23,682 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:53:23,682 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:53:23,682 - INFO - User overrides:
+2025-02-25 15:53:23,682 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:53:23,682 - INFO -   block_fuel: 42545.0
+2025-02-25 15:53:23,682 - INFO - Optimization results:
+2025-02-25 15:53:23,682 - INFO - Optimal cargo: 14412.00 kg
+2025-02-25 15:53:23,682 - INFO - Optimal tankering: 0.00 kg
+2025-02-25 15:53:23,682 - INFO - Total profit: $29236.71
+2025-02-25 15:53:23,682 - INFO -   - Cargo revenue: $37471.20
+2025-02-25 15:53:23,682 - INFO -   - Fuel savings: $-4874.52
+2025-02-25 15:53:23,682 - INFO - Additional burn: 3836.47 kg
+2025-02-25 15:53:23,682 - INFO - Take-off mass: 188993.35 kg
+2025-02-25 15:53:23,682 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:53:23,682 - INFO - Landing mass: 152315.87 kg
+2025-02-25 15:53:23,683 - INFO - Limiting factor: MZFW+Fuel
+2025-02-25 15:53:30,511 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:53:30,511 - INFO - Passengers: 268
+2025-02-25 15:53:30,511 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:53:30,511 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:53:30,511 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:53:30,511 - INFO - User overrides:
+2025-02-25 15:53:30,511 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:53:30,511 - INFO -   block_fuel: 42545.0
+2025-02-25 15:53:30,511 - INFO - Optimization results:
+2025-02-25 15:53:30,511 - INFO - Optimal cargo: 336.00 kg
+2025-02-25 15:53:30,511 - INFO - Optimal tankering: 0.00 kg
+2025-02-25 15:53:30,511 - INFO - Total profit: $681.62
+2025-02-25 15:53:30,511 - INFO -   - Cargo revenue: $873.60
+2025-02-25 15:53:30,511 - INFO -   - Fuel savings: $-113.64
+2025-02-25 15:53:30,511 - INFO - Additional burn: 89.44 kg
+2025-02-25 15:53:30,511 - INFO - Take-off mass: 185058.97 kg
+2025-02-25 15:53:30,511 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:53:30,511 - INFO - Landing mass: 152128.52 kg
+2025-02-25 15:53:30,511 - INFO - Limiting factor: MZFW+Fuel
+2025-02-25 15:53:34,195 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:53:34,196 - INFO - Passengers: 500
+2025-02-25 15:53:34,196 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:53:34,196 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:53:34,196 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:53:34,196 - INFO - User overrides:
+2025-02-25 15:53:34,196 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:53:34,196 - INFO -   block_fuel: 42545.0
+2025-02-25 15:53:34,196 - INFO - Optimization results:
+2025-02-25 15:53:34,196 - INFO - Optimal cargo: 0.00 kg
+2025-02-25 15:53:34,196 - INFO - Optimal tankering: 0.00 kg
+2025-02-25 15:53:34,196 - INFO - Total profit: $0.00
+2025-02-25 15:53:34,196 - INFO -   - Cargo revenue: $0.00
+2025-02-25 15:53:34,196 - INFO -   - Fuel savings: $0.00
+2025-02-25 15:53:34,196 - INFO - Additional burn: 0.00 kg
+2025-02-25 15:53:34,196 - INFO - Take-off mass: 0.00 kg
+2025-02-25 15:53:34,196 - INFO - Zero fuel mass: 0.00 kg
+2025-02-25 15:53:34,196 - INFO - Landing mass: 0.00 kg
+2025-02-25 15:53:34,196 - INFO - Limiting factor: No feasible solution found
+2025-02-25 15:53:42,489 - INFO - Starting optimization for TFU-MLE with A330-203
+2025-02-25 15:53:42,489 - INFO - Passengers: 265
+2025-02-25 15:53:42,489 - INFO - Fuel price at origin: $0.6875/liter
+2025-02-25 15:53:42,489 - INFO - Fuel price at destination: $0.9974/liter
+2025-02-25 15:53:42,489 - INFO - Cargo revenue rate: $2.60/kg
+2025-02-25 15:53:42,489 - INFO - User overrides:
+2025-02-25 15:53:42,489 - INFO -   actual_zfw: 147982.0
+2025-02-25 15:53:42,489 - INFO -   block_fuel: 42545.0
+2025-02-25 15:53:42,489 - INFO - Optimization results:
+2025-02-25 15:53:42,489 - INFO - Optimal cargo: 642.00 kg
+2025-02-25 15:53:42,489 - INFO - Optimal tankering: 0.00 kg
+2025-02-25 15:53:42,489 - INFO - Total profit: $1302.38
+2025-02-25 15:53:42,489 - INFO -   - Cargo revenue: $1669.20
+2025-02-25 15:53:42,489 - INFO -   - Fuel savings: $-217.14
+2025-02-25 15:53:42,490 - INFO - Additional burn: 170.90 kg
+2025-02-25 15:53:42,490 - INFO - Take-off mass: 185144.50 kg
+2025-02-25 15:53:42,490 - INFO - Zero fuel mass: 147982.00 kg
+2025-02-25 15:53:42,490 - INFO - Landing mass: 152132.60 kg
+2025-02-25 15:53:42,490 - INFO - Limiting factor: MZFW+Fuel
